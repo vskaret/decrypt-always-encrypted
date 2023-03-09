@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "decrypt-always-encrypted"
+  site-url: "https://vskaret.github.io/decrypt-always-encrypted"
+  description: "Decrypt stuff encrypted on a mssql server with always encrypted"
+  repo-branch: main
+  repo-url: "https://github.com/vskaret/decrypt-always-encrypted"
